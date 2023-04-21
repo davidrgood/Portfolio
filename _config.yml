@@ -1,0 +1,18 @@
+title: <p align="center"> David Good </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/davidrgood/">LinkedIn</a> |
+  </p>
+  
+  <p align="justify">
+  Highly analytical and detail-oriented Data Analyst with over 5 years of experience in gathering, organizing, and interpreting complex data sets to drive data-driven decision making for diverse industries.
+  <br><br>
+
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
